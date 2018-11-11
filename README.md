@@ -1,6 +1,9 @@
 ## SunwayAPP-UI设计稿
-一个在线教育平台的设计方案，希望有大佬能够把他做出来  
+一个在线教育平台的设计方案，希望有大佬能够把他做出来，这个想法真的超级棒，获得过三次奖项。  
 视频链接 https://www.bilibili.com/video/av32725599
+
+## logo
+![](https://github.com/bitbitluo/SunwayEducation/blob/master/img/logo.jpg)
 
 ## 登录界面
 ![](https://github.com/bitbitluo/SunwayEducation/blob/master/img/login.png)
@@ -11,5 +14,4 @@
 ## 家长模块
 ![](https://github.com/bitbitluo/SunwayEducation/blob/master/img/%E5%AE%B6%E9%95%BF.jpg)
 
-## logo
-![](https://github.com/bitbitluo/SunwayEducation/blob/master/img/logo.png)
+
